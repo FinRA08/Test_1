@@ -1,0 +1,15 @@
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\bin\Debug\net6.0\Test_003_Push.exe
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\bin\Debug\net6.0\Test_003_Push.deps.json
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\bin\Debug\net6.0\Test_003_Push.runtimeconfig.json
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\bin\Debug\net6.0\Test_003_Push.dll
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\bin\Debug\net6.0\Test_003_Push.pdb
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.dll
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\refint\Test_003_Push.dll
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.pdb
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\Test_003_Push.genruntimeconfig.cache
+C:\Users\MSI\OneDrive\Рабочий стол\Test_1\Test_003_Push\obj\Debug\net6.0\ref\Test_003_Push.dll
